@@ -1,0 +1,12 @@
+.logo{
+  width: 40px;
+  padding: 5px;
+}
+
+.header.ant-menu{
+  border: none;
+}
+
+.header{
+  border-bottom: 1px solid #dedede
+}
